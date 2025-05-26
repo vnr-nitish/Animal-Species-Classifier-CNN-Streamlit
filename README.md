@@ -1,7 +1,5 @@
 # 🐾 Multi-Class Animal Recognition Using CNN + Streamlit  
-**Author:** Nitish Raj Vinnakota  
-🔗 [LinkedIn](https://linkedin.com/in/vnr-nitish)  
-📧 nvinnako2@gitam.in
+**Author:** Nitish Raj Vinnakota | 🔗 [LinkedIn](https://linkedin.com/in/vnr-nitish)  
 
 ---
 
