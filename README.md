@@ -33,6 +33,7 @@ This project implements a **deep learning-based animal classification system** t
 - **Loss Function**: Categorical Crossentropy  
 - **Optimizer**: Adam  
 - **Output**: Class probabilities for each animal species
+- **Model**: https://drive.google.com/file/d/1VQPAXjV4jrr7G0QRnjXYstYuPjQToWd6/view?usp=sharing
 
 ---
 
