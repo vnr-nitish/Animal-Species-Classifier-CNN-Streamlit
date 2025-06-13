@@ -49,8 +49,7 @@ This project implements a **deep learning-based animal classification system** t
 ## 🧰 Tech Stack
 
 - Python  
-- TensorFlow / Keras  
-- OpenCV  
+- TensorFlow / Keras   
 - NumPy  
 - Streamlit  
 - PIL
